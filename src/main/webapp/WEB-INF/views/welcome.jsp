@@ -5,7 +5,8 @@
 	<title> webstore </title>
 </head>
 <body>
-
+<h1>${greeting}</h1>
+<h1>${tagline}</h1>
 
 </body>
 </html>
